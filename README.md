@@ -41,9 +41,16 @@
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=MihawkPp&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false) <br>
-![](https://streak-stats.demolab.com/?user=MihawkPp&theme=shadow_green&hide_border=false) <br>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MihawkPp&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=MihawkPp&show_icons=true&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" alt="Estadísticas de Jose" />
+  <br/><br/>
+  
+  <img src="https://streak-stats.demolab.com/?user=MihawkPp&theme=blueberry&hide_border=false" alt="Racha de contribuciones" />
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MihawkPp&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Lenguajes Top" />
+</div>
 
 ---
 <p align="center">
